@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![KakoF github stats](https://github-readme-stats.vercel.app/api?username=KakoF&hide=["issues"]&show_icons=true)
 <!--
 **KakoF/KakoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
